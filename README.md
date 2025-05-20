@@ -59,5 +59,4 @@ This analysis highlights the importance of maintaining a healthy weight and bloo
 - Line Chart: Hospital Charges and BMI Trends by Age
 
 ## Project Resources
-- [Excel Sheet for Healthcare Data Analysis](https://github.com/vignesh4005/Excel_Healthcare_Data_Analysis/blob/main/Healthcare%20Data%20Analysis%20and%20Insights.xlsx) <!-- Replace with the actual link -->
-- [Project Guide Sheet](https://github.com/vignesh4005/Excel_Healthcare_Data_Analysis/blob/main/Healthcare%20Analysis%20Project%20Guide%20Sheet.pdf) <!-- Replace with the actual link -->
+- [Excel Sheet for Healthcare Data Analysis](https://github.com/NikitaKundle01/Helthcare_Data_Analysis_Excel/blob/main/Healthcare%20Data%20Analysis%20and%20Insights.xlsx) <!-- Replace with the actual link -->
